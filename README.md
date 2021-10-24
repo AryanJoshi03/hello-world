@@ -1,4 +1,6 @@
 # hello-world
+
+Project 2 and 3 submission (Part 1 & 2)
 My first repository 
 
 Assignment Info:
@@ -32,4 +34,12 @@ Kf7 too works but Kf8 leads to the fastest checkmate.
 
 2. f5 is the only legal move and 
 3. Nf7# delivers one the most satisfying checkmates ever. 
+
+
+
+
+
+Project 3
+
+![Screenshot (6)](https://user-images.githubusercontent.com/64034841/138611442-01c82553-dafa-4607-a02f-3910c470a52e.png)
 
